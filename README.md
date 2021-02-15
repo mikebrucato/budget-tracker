@@ -4,7 +4,7 @@
 Intro to the Budget Tracker
 This is a simple application that is used to track you budget. You can easily type in the name of the transaction and either add funds or subtract funds from your total.
 
-<img src="assets/budget.png" width="300px" height="200px" alt="screen shot">
+<img src="assets/budget.png" width="300px" height="300px" alt="screen shot">
 
 # Link to deployed application
 
